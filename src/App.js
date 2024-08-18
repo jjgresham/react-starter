@@ -26,7 +26,7 @@ function App() {
             <Route path="/pricing" element={<Pricing />} />
         </Routes>
         <footer className='footer'>
-          <p>© 2024 ~Company Name~ All rights reserved</p>
+          <p>© 2024 [Company Name] All rights reserved</p>
         </footer>
       </div>
     </Router>

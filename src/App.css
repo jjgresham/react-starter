@@ -94,7 +94,7 @@ form {
 
 .form-group input,
 .form-group textarea {
-  width: 100%;
+  width: 75%;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -114,7 +114,7 @@ form {
 }
 
 .submit-button {
-  width: 100%;
+  max-width: 200px;
   padding: 12px;
   background-color: #0073e6;
   color: white;
@@ -123,6 +123,7 @@ form {
   font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  margin: 10px;
 }
 
 .submit-button:hover {

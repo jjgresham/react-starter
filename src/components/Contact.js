@@ -50,7 +50,7 @@ function Contact() {
           />
         </div>
         
-        <button type="submit" className="cta-button">Send Message</button>
+        <button type="submit" className="submit-button">Send Message</button>
       </form>
     </div>
   );
